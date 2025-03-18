@@ -157,3 +157,4 @@ C:\Users\Rafael\Documents\Pathways\DeveloperPathways\TestTitanicProject\obj\Debu
 C:\Users\Rafael\Documents\Pathways\DeveloperPathways\TestTitanicProject\obj\Debug\net9.0\TestTitanicProject.pdb
 C:\Users\Rafael\Documents\Pathways\DeveloperPathways\TestTitanicProject\obj\Debug\net9.0\TestTitanicProject.genruntimeconfig.cache
 C:\Users\Rafael\Documents\Pathways\DeveloperPathways\TestTitanicProject\obj\Debug\net9.0\ref\TestTitanicProject.dll
+C:\Users\Rafael\Documents\Pathways\DeveloperPathways\TestTitanicProject\obj\Debug\net9.0\TestTitanicProject.sourcelink.json
